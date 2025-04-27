@@ -22,7 +22,6 @@ window.addEventListener('scroll', () => {
     });
 });
 
-// Back to Top Button
 const backToTopBtn = document.createElement('button');
 backToTopBtn.innerText = '↑';
 backToTopBtn.id = 'backToTop';
