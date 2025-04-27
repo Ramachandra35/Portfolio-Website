@@ -131,7 +131,6 @@ footer {
     margin-top: 2rem;
 }
 
-/* Simple fade-in Animation */
 @keyframes fadeIn {
     from {
         opacity: 0;
