@@ -52,8 +52,6 @@ window.addEventListener('scroll', () => {
 backToTopBtn.addEventListener('click', () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
 });
-
-// Simple page load animation
 document.addEventListener('DOMContentLoaded', () => {
     document.body.style.opacity = 0;
     setTimeout(() => {
